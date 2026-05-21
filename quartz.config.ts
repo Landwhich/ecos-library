@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "landwhich.github.io/ecos-library",
     ignorePatterns: ["private", "templates", ".obsidian", "assets"],
     defaultDateType: "modified",
     theme: {
