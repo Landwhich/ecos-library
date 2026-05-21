@@ -1,3 +1,24 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// put your custom CSS here! 
+.rate-1 { color: #C03000FF; }
+.rate-2 { color: #C0670DFF; }
+.rate-3 { color: #10BB20FF; }
+.rate-4 { color: #DC94F6FF; }
+.rate-5 { color: #FFD722FF; }
+
+/* Override Quartz's default strikethrough on checked items */
+.page article li:has(>input[type="checkbox"]:checked) {
+  text-decoration: none !important;
+  -webkit-text-decoration-color: transparent !important;
+  text-decoration-color: transparent !important;
+}
+
+.page article li:has(>input[type="checkbox"]:checked) * {
+  text-decoration: none !important;
+}
+
+.page article li:has(>input[type="checkbox"]:checked) span {
+  text-decoration: line-through #999999 !important;
+}
+
