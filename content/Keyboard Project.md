@@ -20,11 +20,11 @@ This is the list for a ferris sweep build, not my final decision, but likely
 - 1x USB Cable
 - 1x TRRS Cable 
 
-![[assets/yesclaudewtvyousay.png]]
+![[yesclaudewtvyousay.png]]
 
 # PCB Configurations
-![[assets/kbkikad.png]]
-![[assets/kbjcl.png]]
+![[kbkikad.png]]
+![[kbjcl.png]]
 # Handy Resources 
 - https://youtu.be/fBPu7AyDtkM
 - https://youtu.be/8wZ8FRwOzhU
