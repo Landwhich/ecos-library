@@ -18,7 +18,10 @@ Course Habit Tracker
 - [ ] <span class="rate-n">[]()</span>
 #### Beej (The Goat):
 - [ ] <span class="rate-n">[C Guide](https://beej.us/guide/bgc/)</span>
-- [ ] <span class="rate-n">[]()</span>
+- [ ] 
 #### MIT OCW:
-- [ ] <span class="rate-n">[]()</span>
+- [ ] <span class="rate-n">[18.200 - Discrete Math](https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/)</span>
+- [ ] <span class="rate-n">[Linear Algebra I - 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)</span>
+- [ ] <span class="rate-n">[Linear Algebra II - 18.065](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)</span>
+- [ ] 
 
