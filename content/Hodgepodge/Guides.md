@@ -6,7 +6,7 @@ Course Habit Tracker
 | Year | Winter | Summer | Fall | 
 | ----- | ------ | -------- | ---- |
 | 2026 | ▮▮▮ |  |  |
-#### Online Guides
+### Online Guides
 - [ ] <span class="rate-n">[Debugging with GDB](https://tinyurl.com/yddkushh)</span>
 - [x] <span class="rate-5">[Learncpp.com](https://www.learncpp.com/) - Best C++ resource I've found to date - </span> The Course is taught by someone who not only understands C++, but teaching too. The technical depth per chapter is astounding, though maybe not a resource I'd recommend to someone who's never touched programming, it does a better job than most all courses and books.  Technical examples are actually digestible, and give no more information than needed. I found myself learning from the very first chapter to the last. 
 - [ ] <span class="rate-n">[MIT: Missing Semester](https://missing.csail.mit.edu)</span>
@@ -16,12 +16,12 @@ Course Habit Tracker
 - [ ] <span class="rate-n">[Visualgo](https://visualgo.net/en)</span>
 - [ ] <span class="rate-n">[Vulkan Tutorial](https://vulkan-tutorial.com/)</span>
 - [ ] <span class="rate-n">[]()</span>
-#### Beej (The Goat):
+### Beej (The Goat):
 - [ ] <span class="rate-n">[C Guide](https://beej.us/guide/bgc/)</span>
-- [ ] 
-#### MIT OCW:
+- [ ] <span class="rate-n">[]()</span>
+### MIT OCW:
 - [ ] <span class="rate-n">[18.200 - Discrete Math](https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/)</span>
 - [ ] <span class="rate-n">[Linear Algebra I - 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)</span>
 - [ ] <span class="rate-n">[Linear Algebra II - 18.065](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)</span>
-- [ ] 
+- [ ] <span class="rate-n">[]()</span>
 

@@ -5,8 +5,8 @@ Reading Habit Tracker
 | Year | Winter | Summer | Fall | 
 | ----- | ------ | -------- | ---- |
 | 2025 | ▮         | ▮▮     | ▮▮▮▮▮ |
-| 2026 | ▮▮      |  
-#### C++ and Fundamentals
+| 2026 | ▮▮      | ▮
+### C++ and Fundamentals
 - [x]  <span class="rate-n">1 - C++ a Beginners Guide | Opted to read [learncpp](https://www.learncpp.com/) instead</span>
 - [x] <span class="rate-n">2 - C++17: in Detail |  Opted to read [learncpp](https://www.learncpp.com/) instead</span>
 - [ ] <span class="rate-n">3 - Design Patterns - **Gang of Four**</span>
@@ -16,8 +16,8 @@ Reading Habit Tracker
 - [ ] <span class="rate-n">7 - TCP / IP Illustrated - **Kevin R. Fall, W Richard Stevens**</span>
 - [ ] <span class="rate-n">8 - C++ Concurrency in Action - **Anthony Williams**</span>
 - [ ] <span class="rate-n">9 - C++ Software Design - **Klaus Iglberger**</span>
-#### Philosophy Reading for 2026:
-- [ ] <span class="rate-n">January - Tao Te Ching - **Lao Tzu**</span>
+### Philosophy Reading for 2026:
+- [x] <span class="rate-n">January - Tao Te Ching - **Lao Tzu**</span>
 - [ ] <span class="rate-n">February - In The Buddha’s Words - **Bhikkhu Bodhi**</span>
 - [ ] <span class="rate-n">March - Free - ****</span>
 - [ ] <span class="rate-n">April - Discourses and Selected Writing - **Epictetus**</span>
@@ -29,7 +29,15 @@ Reading Habit Tracker
 - [ ] <span class="rate-n">October - Thus Spoke Zarathustra - **Friedrich Nietzsche**</span>
 - [ ] <span class="rate-n">November - Siddhartha - **Hermann Hesse**</span>
 - [ ] <span class="rate-n">December - Free - ****</span>
-#### New Reads List with Summaries:
+
+### Math Texts
+- [ ] <span class="rate-n">1 - A Concise Introduction to Pure Mathematics - **Martin Liebeck**</span>
+- [ ] <span class="rate-n">2 - [Understanding Analysis](https://dn710208.ca.archive.org/0/items/kennetharosselementaryanalysis/%5BUndergraduate%20Texts%20in%20Mathematics%5D%20Stephen%20Abbott%20-%20Understanding%20Analysis%20%282015%2C%20Springer%29.pdf) - **Stephen Abbot**</span>
+- [ ] <span class="rate-n">3 - [Differential Geometry of Curves and Surfaces](https://ia800504.us.archive.org/26/items/differential-calculus-book-collection-72b/Differential_Geometry_of_Curves_and_Surfaces_Manfredo_P_do_Carmo.pdf) - **Manfredo P. Do Carmo**</span>
+- [ ]  <span class="rate-n">4 - Basic Algebra - **Nathan Jacobson**</span>
+- [ ]  <span class="rate-n">5 - A Concise Introduction to Linear Algebra - **Géza Schay**</span>
+
+### New Reads List with Summaries:
 - [x] <span class="rate-3">Atomic Habits - **James Clear**</span> As one of the most hyped up books of the 21st century it's hard to expect little from this title. Quality of insight provided, along with helpful exercises and tips makes it still a worthwhile read. Takeaways: Habit Stacking and %1 rule
 - [ ] <span class="rate-n">[Beautiful C++](https://ptgmedia.pearsoncmg.com/images/9780137647842/samplepages/9780137647842_Sample.pdf) - **J Guy Davidson, Kate Gregory**</span>
 - [ ] <span class="rate-n">C++ Concurrency in Action - **Anthony Williams**</span>
@@ -47,7 +55,7 @@ Reading Habit Tracker
 - [ ] <span class="rate-n">Operating Systems in Three Easy Pieces (OSTEP) - **Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau**</span>
 - [ ] <span class="rate-n">Siddhartha - **Hermann Hesse**</span>
 - [ ] <span class="rate-n">Structure and Interpretation of Computer Programs - **Harold Abelson, Gerald Jay Sussman, Julie Sussman**</span>
-- [ ] <span class="rate-n">Tao Te Ching - **Lao Tzu**</span>
+- [x] <span class="rate-3">Tao Te Ching - **Lao Tzu**</span> Despite the lower rating, I'd highly recommend reading this one. My rating stems from a difference of opinion regarding the content, though I find the ideas refreshing and of high insight. Possibly a great read to challenge existing opinions, as it was for me. I find the ideas behind large detachment to life and desires to seem shallow though it's likely I am just not enlightened enough to get it. I do however agree with many of the author's opinions, even if just partially. Takeaways: Better to let go than overflow; The twisted branch is whole; False power requires study, true power requires the opposite; A dull leader leads a happy people; A winner in war is a guest to conflict.
 - [ ] <span class="rate-n">TCP / IP Illustrated - **Kevin R. Fall, W Richard Stevens**</span>
 - [ ] <span class="rate-n">The Art of Writing Efficient Programs - **Fedor J. Pikus**</span>
 - [x] <span class="rate-4">The Black Swan - **Nassim Nicholas Taleb (NNT)**</span> Changed my perspective on predictability and unknown events. Discussions on scale within Extremistan and Mediocritsan demonstrate the collective understanding of statistics (Gauss). Takeaways: Survivorship bias, Preventative measures, Extrimistan scaling
@@ -57,5 +65,5 @@ Reading Habit Tracker
 - [x] <span class="rate-4">The Republic - **Plato**</span> Dialogue and proofs worth reading. begins by asserting the complexity of goodness, pedastalizes baseness only to formulate a robust counter argument in a better half of the book. Discusses the cycling of ideologies over time, the attempt to train goodness and the purity of soul. Along the way, Plato tackles counter arguments through allegory that span chapters. Takeaways: Isolating goodness from birth and the corruptness of good men and torture of a tyrannical soul
 - [x] <span class="rate-3">The Subtle Art of Not Giving a Fuck - **Mark Manson**</span> The wine mom's self-help book holds up well. It covers the changing of principals and buddist-like serenity in impressively few words.
 - [ ] <span class="rate-n">Thus Spoke Zarathustra - **Friedrich Nietzsche**</span>
-- [x] <span class="rate-1">Working With Emotional Intelligence - **Daniel Coleman**</span> Unfortunately an arduous read. The one good takeaway being the provided allegories to reflect on using emotional intelligence. Worth reading the first half only.
+- [x] <span class="rate-1">Working With Emotional Intelligence - **Daniel Goleman**</span> Unfortunately an arduous read. The one good takeaway being the provided allegories to reflect on using emotional intelligence. Worth reading the first half only.
 - [ ] <span class="rate-n"> - ****</span>
