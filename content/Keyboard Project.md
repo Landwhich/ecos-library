@@ -1,12 +1,13 @@
 ---
 title: Keyboard Project
 tags:
+cssclasses:
 ---
 # Goals
 Important to outline some goals for this project, building a custom keyboard isn't just to get chicks. There's a few things I'd like to takeaway from this project:
 - Learn a little about PCB design. A lot of this is abstracted away, but it would still be nice to understand some basic things like why the traces are routed the way they are.
 - Learn something about drivers and they how they enable the use of whatever board I end up picking. 
-- Improve typing speed (obviously). I'm currently falling down the treacherous no mouse programming rabbit hole (it's my time), and this will hopefully help me avoid wrist strain.
+- Improve typing speed. I'm currently falling down the treacherous no mouse programming rabbit hole (it's my time), and this will hopefully help me avoid wrist strain.
 - Fix my god awful soldering skills. If I'm feeling brave I might upload a benchmark picture.
 - 3D printing and CAD in general (hopefully make keycaps and case from scratch).
 - Do not use diodes! This is going to be a ferris build or another small build that uses direct wiring.
@@ -28,14 +29,16 @@ Total spend was just about 100$ CAD, and would've been around 85 without purchas
 # PCB Configurations
 I say "configuration" as I didn't actually design anything, this process was made incredibly simple as I just stole the PCB design from the creator who provides a working design. This has caused my PCB to actually work. I did modify the profile to create a more compact keyboard, but that is all. 
 
-![[images/kbkikad.png]]
-![[kbjcl.png]]
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;"> 
+	<img src="images/kbkicad.png" />
+	<img src="images/kbjcl.png" />
+</div>
 
 I'm Linking my design on my Github if anyone would like to copy my design, but you should be taking the design from the source and modifying it yourself. The creator's Github is linked in the materials list. Screwing around with KiCad was interesting, but it seems I'll need to undertake a proper circuit design project to justify forcing myself to learn PCB design.
-# Keycap Manufacturing
+# Keycap and Base Manufacturing
 Dimensions are 16.50mm x 16.50mm x 3.70mm according to most defacto keycap manufacturers. The switch dimensions I pulled from the official site were more reliable given that I needed to worry about tolerances so much with the PLA shrinkage. 
 
-![[Pasted image 20260607135245.png]]
+![[kbkailhswitches.png]]
 
 # Assembly
 

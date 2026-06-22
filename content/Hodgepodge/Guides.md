@@ -5,11 +5,11 @@ title: Guides / Courses
 Course Habit Tracker
 | Year | Winter | Summer | Fall | 
 | ----- | ------ | -------- | ---- |
-| 2026 | ▮▮▮ |  |  |
+| 2026 | ▮▮▮ | ▮ |  |
 ### Online Guides
 - [ ] <span class="rate-n">[Debugging with GDB](https://tinyurl.com/yddkushh)</span>
 - [x] <span class="rate-5">[Learncpp.com](https://www.learncpp.com/) - Best C++ resource I've found to date - </span> The Course is taught by someone who not only understands C++, but teaching too. The technical depth per chapter is astounding, though maybe not a resource I'd recommend to someone who's never touched programming, it does a better job than most all courses and books.  Technical examples are actually digestible, and give no more information than needed. I found myself learning from the very first chapter to the last. 
-- [ ] <span class="rate-n">[MIT: Missing Semester](https://missing.csail.mit.edu)</span>
+- [x] <span class="rate-5">[MIT: Missing Semester](https://missing.csail.mit.edu) Really a get-what-you-give course, and I'd recommend doing all the exercises. </span> The course organizers are constantly releasing new content, so it's possible I'll be revisiting this soon, though I'm not sure what else they could add. True to the name, the content is likely uncovered BnL so I'd really recommend picking a topic that sounds interesting and seeing what you learn. They're already very short and pragmatic in true MIT fashion and you don't need to watch them in any order. From profilers and debuggers to text editors to automation to automation or even ricing, I found myself not just learning about new topics, but discovering a new perspective to solving problems I'd already seen. Really a get-what-you-give course, and I'd recommend doing all the exercises.
 - [x] <span class="rate-3">[Open Data Structures - **Pat Morin**](https://opendatastructures.org/ods-cpp/) Great foundational reasoning about DSA - </span>The course is unfortunately taught in Java (this is actually a good thing), but programming aside, the course shines for formally teaching proofs and reasoning. Java is good at being slow, and this is used to illustrate not only how poor built-in implementations can hurt runtime, but also how much an educated change makes. The course teaches programming second, and proofs first.
 - [ ] <span class="rate-n">[ProGit](https://git-scm.com/book/en/v2)</span> 
 - [x] <span class="rate-4">[The Last Algorithms You'll Need - **The Primagen**](https://theprimeagen.github.io/fem-algos/) Fantastic for beginners - </span>While not the end-all course on DSA, the information is so succinct that I'd recommend it to anyone wanting to learn DSA. The crystal ball `n^(1/2)` explanation still sticks with me.
