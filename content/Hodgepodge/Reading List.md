@@ -4,8 +4,8 @@ date: 2026-04-16
 Reading Habit Tracker
 | Year | Winter | Summer | Fall | 
 | ----- | ------ | -------- | ---- |
-| 2025 | ▮         | ▮▮     | ▮▮▮▮▮ |
-| 2026 | ▮▮      | ▮ | 
+| 2025 | ▮         | ▮▮          | ▮▮▮▮▮ |
+| 2026 | ▮▮      | ▮▮ | 
 
 ### New Reads List with Summaries
 - [x] <span class="rate-3">Atomic Habits - **James Clear**</span> As one of the most hyped up books of the 21st century it's hard to expect little from this title. I can't say the insight provided is at the level expected, thought still worth reading. Quality of insight provided, along with helpful exercises and tips makes it still a worthwhile read. Takeaways: Habit Stacking and %1 rule
@@ -18,7 +18,7 @@ Reading Habit Tracker
 - [ ] <span class="rate-n">Cracking the Coding Interview - **Gayle Laakmann McDowell**</span>
 - [x] <span class="rate-2">Deep Work - **Cal Newport**</span> Less engaging than hoped. Primarily out of date and oversung wisdom. Surely good for its time, but likely not worth a read.
 - [ ] <span class="rate">Designing Data-Intensive Applications - **Martin Kleppmann**</span>
-- [ ] <span class="rate-n">Design Patterns - **Gang of Four**</span>
+- [x] <span class="rate-4">Design Patterns - **Gang of Four**</span> Contains the fundamental reasoning that sites like refactoring-guru lack. Beautifully explains not just use cases, implementation, high-level thinking etc for all the mentioned patterns, but also covers the need for design patterns and the philosophies that govern OOP. Highly recommended. Though I'd recommend researching modern use cases for many of the patterns (e.g. singleton with thread safety and testing), most of the discussed topics really hold up well today. My biggest gripes with the content is that a lot of overuse (imo) of encapsulation and OOP based thinking was involved in examples and I don't believe represent good practices today (obviously). My favourites were the Bridge, Flyweight, Proxy, Memento, and Visitor patterns.
 - [ ] <span class="rate-n">Discourses and Selected Writing - **Epictetus**</span>
 - [ ] <span class="rate-n">Discourses on Methods and the Meditations - **Descartes**</span>
 - [ ] <span class="rate-n">Inside the Machine - **Jon Stokes**</span>
@@ -54,7 +54,7 @@ Reading Habit Tracker
 ### C++ and Fundamentals
 - [x]  <span class="rate-n">1 - C++ a Beginners Guide | Opted to read [learncpp](https://www.learncpp.com/) instead</span>
 - [x] <span class="rate-n">2 - C++17: in Detail |  Opted to read [learncpp](https://www.learncpp.com/) instead</span>
-- [ ] <span class="rate-n">3 - Design Patterns - **Gang of Four**</span>
+- [x] <span class="rate-n">3 - Design Patterns - **Gang of Four**</span>
 - [ ] <span class="rate-n">4 - [Beautiful C++](https://ptgmedia.pearsoncmg.com/images/9780137647842/samplepages/9780137647842_Sample.pdf) - **J Guy Davidson, Kate Gregory**</span>
 - [ ] <span class="rate-n">5 - Operating Systems in Three Easy Pieces (OSTEP) - **Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau**</span>
 - [ ] <span class="rate-n">6 - Inside the Machine - **Jon Stokes**</span>
