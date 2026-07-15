@@ -19,7 +19,7 @@ Course Habit Tracker
 - [ ] <span class="rate-n">[The Book of Shaders](https://thebookofshaders.com/)</span>
 - [x] <span class="rate-4">[The Last Algorithms You'll Need - **The Primagen**](https://theprimeagen.github.io/fem-algos/) Fantastic for beginners - </span>While not the end-all course on DSA, the information is so succinct that I'd recommend it to anyone wanting to learn DSA. The crystal ball `n^(1/2)` explanation still sticks with me.
 - [ ] <span class="rate-n">[Visualgo](https://visualgo.net/en)</span>
-- [x] <span class="rate-2">[Vulkan Tutorial](https://vulkan-tutorial.com/) Out of date? Doesn't hold up to learnGL - </span> Did not finish, stopped early after "the triangle", due to the author's claims about it being out of date, community holds it in high regard. I didn't find the examples or explanations overly helpful, though tough to give a complete review given I hadn't completed most of it. Still a solid choice to pick up Vulkan given how new the SDK is, but it doesn't hold up against OpenGL guides as far as I've seen + heard.
+- [x] <span class="rate-2">[Vulkan Tutorial](https://vulkan-tutorial.com/) Out of date / slightly innaccurate </span> Did not finish, stopped early after "the triangle", due to the author's own claims about it being out of date, community holds it in high regard. Doesn't hold up to learn OpenGL, but acts as a good reference for Vulkan. and Khronos' official tutorials are just updated versions of this
 - [ ] <span class="rate-n">[Vulkan Tutorial 2026](https://docs.vulkan.org/tutorial/latest/00_Introduction.html)</span>
 - [ ] <span class="rate-n">[]()</span>
 ### MIT OCW
@@ -31,7 +31,7 @@ Course Habit Tracker
 - [ ] <span class="rate-n">[]()</span>
 - [ ] <span class="rate-n">[openvim.com](https://openvim.com/)</span>
 - [ ] <span class="rate-n">[Vim Hero](https://www.vim-hero.com/)</span>
-- [ ] <span class="rate-3">Vim Tutor -</span> Found it very brief and easy to follow, wouldn't call it a course, but def a handy resource getting started. 
+- [x] <span class="rate-3">Vim Tutor -</span> Found it very brief and easy to follow, wouldn't call it a course, but def a handy resource getting started. 
 - [ ] <span class="rate-n">[]()</span>
 - [ ] <span class="rate-n">[]()</span>
 
