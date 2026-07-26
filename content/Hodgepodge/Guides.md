@@ -19,20 +19,22 @@ Course Habit Tracker
 - [ ] <span class="rate-n">[The Book of Shaders](https://thebookofshaders.com/)</span>
 - [x] <span class="rate-4">[The Last Algorithms You'll Need - **The Primagen**](https://theprimeagen.github.io/fem-algos/) Fantastic for beginners - </span>While not the end-all course on DSA, the information is so succinct that I'd recommend it to anyone wanting to learn DSA. The crystal ball `n^(1/2)` explanation still sticks with me.
 - [ ] <span class="rate-n">[Visualgo](https://visualgo.net/en)</span>
-- [x] <span class="rate-2">[Vulkan Tutorial](https://vulkan-tutorial.com/) Out of date / slightly innaccurate </span> Did not finish, stopped early after "the triangle", due to the author's own claims about it being out of date, community holds it in high regard. Doesn't hold up to learn OpenGL, but acts as a good reference for Vulkan. and Khronos' official tutorials are just updated versions of this
+- [x] <span class="rate-2">[Vulkan Tutorial](https://vulkan-tutorial.com/) Out of date / slightly innaccurate </span> After finishing, I'd agree with the author that it is "out of date". That said I'd put it on par with the official Vulkan one in that makes up for in accuracy what it loses in relevancy. Doesn't hold up to *learn OpenGL* from what I've seen, but acts as a good reference for Vulkan. and Khronos' official tutorials are just updated versions of this. 
 - [ ] <span class="rate-n">[Vulkan Tutorial 2026](https://docs.vulkan.org/tutorial/latest/00_Introduction.html)</span>
-- [ ] <span class="rate-n">[]()</span>
 ### MIT OCW
+- [ ] <span class="rate-n">[6.004 - Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/)</span>
+- [ ] <span class="rate-n">[6.823 - Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/)</span>
+- [ ] <span class="rate-n">[6.884 - Complex Digital Systems](https://ocw.mit.edu/courses/6-884-complex-digital-systems-spring-2005/pages/syllabus/)</span>
+- [ ] <span class="rate-n">[8.01 - Physics I *Classical Mechanics*](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)</span>
+- [ ] <span class="rate-n">[8.02 - Physics II *Electromagnetism*](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)</span>
+- [ ] <span class="rate-n">[18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)</span>
+- [ ] <span class="rate-n">[18.06 - Linear Algebra I](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)</span>
+- [ ] <span class="rate-n">[18.065 - Linear Algebra II](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)</span>
 - [ ] <span class="rate-n">[18.200 - Discrete Math](https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/)</span>
-- [ ] <span class="rate-n">[Linear Algebra I - 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)</span>
-- [ ] <span class="rate-n">[Linear Algebra II - 18.065](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)</span>
-- [ ] <span class="rate-n">[]()</span>
+- [ ] <span class="rate-n">00.00 - Template</span>
 ### Virgin Pipeline
-- [ ] <span class="rate-n">[]()</span>
 - [ ] <span class="rate-n">[openvim.com](https://openvim.com/)</span>
 - [ ] <span class="rate-n">[Vim Hero](https://www.vim-hero.com/)</span>
 - [x] <span class="rate-3">Vim Tutor -</span> Found it very brief and easy to follow, wouldn't call it a course, but def a handy resource getting started. 
-- [ ] <span class="rate-n">[]()</span>
-- [ ] <span class="rate-n">[]()</span>
 
 
