@@ -5,7 +5,7 @@ Reading Habit Tracker
 | Year | Winter | Summer | Fall | 
 | ----- | ------ | -------- | ---- |
 | 2025 | ▮         | ▮▮          | ▮▮▮▮▮ |
-| 2026 | ▮▮      | ▮▮▮▮ | 
+| 2026 | ▮▮      | ▮▮▮▮▮▮▮ | 
 
 ### New Reads List with Summaries
 - [x] <span class="rate-3">Atomic Habits - **James Clear**</span> As one of the most hyped up books of the 21st century it's hard to expect little from this title. I can't say the insight provided is at the level expected, though still worth reading. Quality of insight provided, along with helpful exercises and tips makes it still a worthwhile read. Takeaways: Habit Stacking and %1 rule
@@ -22,6 +22,7 @@ Reading Habit Tracker
 - [x] <span class="rate-4">Design Patterns - **Gang of Four**</span> Contains the fundamental reasoning that sites like refactoring-guru lack. Beautifully explains not just use cases, implementation, high-level thinking etc for all the mentioned patterns, but also covers the need for design patterns and the philosophies that govern OOP. Highly recommended. Though I'd recommend researching modern use cases for many of the patterns (e.g. singleton with thread safety and testing), most of the discussed topics really hold up well today. My biggest gripes with the content is that a lot of overuse (imo) of encapsulation and OOP based thinking was involved in examples and I don't believe represent good practices today (obviously). My favourites were the Bridge, Flyweight, Proxy, Memento, and Visitor patterns.
 - [ ] <span class="rate-n">Discourses and Selected Writing - **Epictetus**</span>
 - [ ] <span class="rate-n">Discourses on Methods and the Meditations - **Descartes**</span>
+- [x] <span class="rate-2">Free Will - **Sam Harris**</span> A discussion on the critique and dismissal of free will. While I appreciate brevity from any author, I believe in this case the lack of setup and evidence make his position difficult to both understand and discuss. A lack of scientific and philosophical rigor is used to formulate a half baked logical axiom, which then frames the rest of the book. While I didn't enjoy or empathize with his perspective, I did quite enjoy the questions he poses near the end of the book. Quick read that makes you think.
 - [ ] <span class="rate-n">Hatchet - **Gary Paulsen**</span>
 - [ ] <span class="rate-n">Hitchhiker's Guide to the Galaxy - **Douglas Adams**</span>
 - [ ] <span class="rate-n">Inside the Machine - **Jon Stokes**</span>
@@ -33,6 +34,7 @@ Reading Habit Tracker
 - [ ] <span class="rate-n">Nicomachean Ethics - **Aristotle**</span>
 - [ ] <span class="rate-n">Operating Systems in Three Easy Pieces (OSTEP) - **Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau**</span>
 - [ ] <span class="rate-n">Psychology of Money - **Morgan Housel**</span>
+- [x] <span class="rate-4">Ride the Tiger - **Julius Evola**</span> Incredibly thoughtful book that actually tackles large ideas, I believe ones pertinent to today. Commentary on Nietzche is quite insightful, especially on the topic of Apollo and Dionysus. While some topics received a more abstract discussion (suicide, activism, sex), they helped both set the stage and solidify Evola's reasoning about life, and built up the values of the superman as he sees him. Really interesting dialogue, though much what appealed to me was original content from Senece, Nietzche, Schopenhauer, etc... and I imagine I will enjoy their works even more. Abstract and to the point, a genuine handbook for the modern man.
 - [ ] <span class="rate-n">Siddhartha - **Hermann Hesse**</span>
 - [ ] <span class="rate-n">Structure and Interpretation of Computer Programs - **Harold Abelson, Gerald Jay Sussman, Julie Sussman**</span>
 - [x] <span class="rate-3">Tao Te Ching - **Lao Tzu**</span> Despite the lower rating, I'd highly recommend reading this one. My rating stems from a difference of opinion regarding the content, though I find the ideas refreshing and of high insight. Possibly a great read to challenge existing opinions, as it was for me. I find the ideas behind large detachment to life and desires to seem shallow though it's likely I am just not enlightened enough to get it. I do however agree with many of the author's opinions, even if just partially. Takeaways: Better to let go than overflow; The twisted branch is whole; False power requires study, true power requires the opposite; A dull leader leads a happy people; A winner in war is a guest to conflict. *(translated by Benjamin Jowetts; decent; Duke Classic sucks)*
@@ -57,7 +59,7 @@ Reading Habit Tracker
 - [ ] <span class="rate-n">The Prince - **Machiavelli**</span>
 - [x] <span class="rate-4">The Republic - **Plato**</span> Dialogue and proofs worth reading. begins by asserting the complexity of goodness, pedastalizes baseness only to formulate a robust counter argument in a better half of the book. Discusses the cycling of ideologies over time, the attempt to train goodness and the purity of soul. Along the way, Plato tackles counter arguments through allegory that span chapters. Takeaways: Isolating goodness from birth and the corruptness of good men and torture of a tyrannical soul. (translated by Benjamin Jowett; decent; Duke Classic sucks)
 - [ ] <span class="rate-n">The Screwtape Letters - **C. S. Lewis**</span>
-- [ ] <span class="rate-3">The Subtle Art of Not Giving a Fuck - **Mark Manson**</span> The wine mom's self-help book holds up well. It covers the changing of principals and buddist-like serenity in impressively few words.
+- [x] <span class="rate-3">The Subtle Art of Not Giving a Fuck - **Mark Manson**</span> The wine mom's self-help book holds up well. It covers the changing of principals and buddist-like serenity in impressively few words.
 - [ ] <span class="rate-n">Thus Spoke Zarathustra - **Friedrich Nietzsche**</span>
 - [ ] <span class="rate-n">[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - **Ulrich Drepper**</span>
 - [ ] <span class="rate-n">White Nights - **Fyodor Dostoevsky**</span>
