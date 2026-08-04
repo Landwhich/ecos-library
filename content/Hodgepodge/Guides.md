@@ -25,9 +25,9 @@ Course Habit Tracker
 - [ ] <span class="rate-n">[6.004 - Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/)</span>
 - [ ] <span class="rate-n">[6.823 - Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/)</span>
 - [ ] <span class="rate-n">[6.884 - Complex Digital Systems](https://ocw.mit.edu/courses/6-884-complex-digital-systems-spring-2005/pages/syllabus/)</span>
-- [ ] <span class="rate-n">[8.01 - Physics I *Classical Mechanics*](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)</span>
+- [ ] <span class="rate-n">[8.01 - Physics I *Classical Mechanics*](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)[ - Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV)</span>
 - [ ] <span class="rate-n">[8.02 - Physics II *Electromagnetism*](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/pages/syllabus/)</span>
-- [ ] <span class="rate-n">[18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)</span>
+- [ ] <span class="rate-n">[18.01 - Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/syllabus/)[ - Lectures](https://www.youtube.com/playlist?list=PLE2215608E2574180)</span>
 - [ ] <span class="rate-n">[18.06 - Linear Algebra I](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)</span>
 - [ ] <span class="rate-n">[18.065 - Linear Algebra II](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)</span>
 - [ ] <span class="rate-n">[18.200 - Discrete Math](https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/)</span>
