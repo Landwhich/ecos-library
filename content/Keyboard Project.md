@@ -30,8 +30,8 @@ Total spend was just about 100$ CAD, and would've been around 85 without purchas
 I say "configuration" as I didn't actually design anything, this process was made incredibly simple as I just stole the PCB design from the creator who provides a working design. This has caused my PCB to actually work. I did modify the profile to create a more compact keyboard, but that is all. 
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;"> 
-	<img src="images/projects/keyboard/kbkicad.png" />
-	<img src="images/projects/keyboard/kbjcl.png" />
+	<img src="images/kbkicad.png" />
+	<img src="images/kbjcl.png" />
 </div>
 
 I'm Linking my design on my Github if anyone would like to copy my design, but you should be taking the design from the source and modifying it yourself. The creator's Github is linked in the materials list. Screwing around with KiCad was interesting, but it seems I'll need to undertake a proper circuit design project to justify forcing myself to learn PCB design.
