@@ -5,7 +5,7 @@ Reading Habit Tracker
 | Year | Winter | Summer | Fall | 
 | ----- | ------ | -------- | ---- |
 | 2025 | ▮         | ▮▮          | ▮▮▮▮▮ |
-| 2026 | ▮▮      | ▮▮▮▮▮▮▮ | 
+| 2026 | ▮▮      | ▮▮▮▮▮▮▮▮ | 
 
 ### New Reads List with Summaries
 - [x] <span class="rate-3">Atomic Habits - **James Clear**</span> As one of the most hyped up books of the 21st century it's hard to expect little from this title. I can't say the insight provided is at the level expected, though still worth reading. Quality of insight provided, along with helpful exercises and tips makes it still a worthwhile read. Takeaways: Habit Stacking and %1 rule
@@ -36,6 +36,7 @@ Reading Habit Tracker
 - [ ] <span class="rate-n">Psychology of Money - **Morgan Housel**</span>
 - [x] <span class="rate-4">Ride the Tiger - **Julius Evola**</span> Incredibly thoughtful book that actually tackles large ideas, I believe ones pertinent to today. Commentary on Nietzche is quite insightful, especially on the topic of Apollo and Dionysus. While some topics received a more abstract discussion (suicide, activism, sex), they helped both set the stage and solidify Evola's reasoning about life, and built up the values of the superman as he sees him. Really interesting dialogue, though much what appealed to me was original content from Senece, Nietzche, Schopenhauer, etc... and I imagine I will enjoy their works even more. Abstract and to the point, a genuine handbook for the modern man.
 - [ ] <span class="rate-n">Siddhartha - **Hermann Hesse**</span>
+- [x] <span class="rate-3">Sit Like a Buddha - **Lodro Rinzler**</span> Essentially an amalgamation of a 'how to' youtube tutorial on meditation mixed with a surface level write-up of a self help productivity book. Bonus points for being a 30 minute read. I liked the '*keep sitting*' mantra.
 - [ ] <span class="rate-n">Structure and Interpretation of Computer Programs - **Harold Abelson, Gerald Jay Sussman, Julie Sussman**</span>
 - [x] <span class="rate-3">Tao Te Ching - **Lao Tzu**</span> Despite the lower rating, I'd highly recommend reading this one. My rating stems from a difference of opinion regarding the content, though I find the ideas refreshing and of high insight. Possibly a great read to challenge existing opinions, as it was for me. I find the ideas behind large detachment to life and desires to seem shallow though it's likely I am just not enlightened enough to get it. I do however agree with many of the author's opinions, even if just partially. Takeaways: Better to let go than overflow; The twisted branch is whole; False power requires study, true power requires the opposite; A dull leader leads a happy people; A winner in war is a guest to conflict. *(translated by Benjamin Jowetts; decent; Duke Classic sucks)*
 - [ ] <span class="rate-n">TCP / IP Illustrated - **Kevin R. Fall, W Richard Stevens**</span>
@@ -88,7 +89,7 @@ Reading Habit Tracker
 - [ ] <span class="rate-n">September - Free - (Meditations - **Marcus Aurelius**)</span>
 - [ ] <span class="rate-n">October - Thus Spoke Zarathustra - **Friedrich Nietzsche**</span>
 - [ ] <span class="rate-n">November - Siddhartha - **Hermann Hesse**</span>
-- [ ] <span class="rate-n">December - Free - (Beyond Good and Evil - **Friedrich Nietzche**)</span>
+- [ ] <span class="rate-n">December - Free - (The Birth of Tragedy - **Friedrich Nietzche**)</span>
 ### Philosophy Reading for 2027
 - [ ] <span class="rate-n">January - The Analects - **Confucius**</span>
 - [ ] <span class="rate-n">February - Letters From a Stoic - **Seneca**</span>
