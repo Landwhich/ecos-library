@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "landwhich.github.io/ecos-library",
-    ignorePatterns: ["notes", "templates", ".obsidian", "images"],
+    ignorePatterns: ["templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
