@@ -18,7 +18,7 @@ I'd like to create a physics visualization sim but also a game engine. Something
 - [ ] ***Make it Fast*** - Multithreading infrastructure with extensibility for new features 
 - [ ] ***Make it Pretty*** - Minimal Application complete with object rendering and GUI for runtime customization (GLFW + IMGUI)
 - [ ] ***Physics!*** - Basic physics and rigidbody?
-- [ ] ***Make it Performative*** - Object Instancing and easy optimizations
+- [ ] ***Make it Performant** - Object Instancing and easy optimizations
 - [ ] ***Raycasting??*** - Implementing raycasting would be really fun, and has applications for both the physics and game engine project
 ### Game Engine
 - [ ] Basic architecture including a component-based system for effective OOP and game object instancing.

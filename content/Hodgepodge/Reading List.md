@@ -5,7 +5,7 @@ Reading Habit Tracker
 | Year | Winter | Summer | Fall | 
 | ----- | ------ | -------- | ---- |
 | 2025 | ▮         | ▮▮          | ▮▮▮▮▮ |
-| 2026 | ▮▮      | ▮▮▮▮▮▮▮▮ | 
+| 2026 | ▮▮      | ▮▮▮▮▮▮▮▮▮ | 
 
 ### New Reads List with Summaries
 - [x] <span class="rate-3">Atomic Habits - **James Clear**</span> As one of the most hyped up books of the 21st century it's hard to expect little from this title. I can't say the insight provided is at the level expected, though still worth reading. Quality of insight provided, along with helpful exercises and tips makes it still a worthwhile read. Takeaways: Habit Stacking and %1 rule
@@ -41,7 +41,7 @@ Reading Habit Tracker
 - [x] <span class="rate-3">Tao Te Ching - **Lao Tzu**</span> Despite the lower rating, I'd highly recommend reading this one. My rating stems from a difference of opinion regarding the content, though I find the ideas refreshing and of high insight. Possibly a great read to challenge existing opinions, as it was for me. I find the ideas behind large detachment to life and desires to seem shallow though it's likely I am just not enlightened enough to get it. I do however agree with many of the author's opinions, even if just partially. Takeaways: Better to let go than overflow; The twisted branch is whole; False power requires study, true power requires the opposite; A dull leader leads a happy people; A winner in war is a guest to conflict. *(translated by Benjamin Jowetts; decent; Duke Classic sucks)*
 - [ ] <span class="rate-n">TCP / IP Illustrated - **Kevin R. Fall, W Richard Stevens**</span>
 - [ ] <span class="rate-n">The Analects - **Confucius**</span>
-- [ ] <span class="rate-n">The Art of War - **Sun Tzu**</span>
+- [x] <span class="rate-3">The Art of War - **Sun Tzu**</span> Timeless only in its war-ish philosophy and yet still insightful in philosophy of war. A lot of the content is applicable primarily in war and is frankly elementary even in such an intended domain. That's not to say it has no merit as a philosophical text. I found frequently, phrases applicable in everyday life. Without a doubt a classic, just needs a careful reading. I especially enjoyed reading this after Tao Te Ching. *The Book of Five Rings* will be a joy.
 - [ ] <span class="rate-n">The Art of Writing Efficient Programs - **Fedor J. Pikus**</span>
 - [x] <span class="rate-4">The Black Swan - **Nassim Nicholas Taleb (NNT)**</span> Changed my perspective on predictability and unknown events. Discussions on scale within Extremistan and Mediocritsan demonstrate the collective understanding of statistics (Gauss). Takeaways: Survivorship bias, Preventative measures, Extrimistan scaling
 - [ ] <span class="rate-n">The Book of Five Rings - **Miyamoto Musashi**</span>
@@ -80,7 +80,7 @@ Reading Habit Tracker
 ### Philosophy Reading for 2026
 - [x] <span class="rate-n">January - Tao Te Ching - **Lao Tzu**</span>
 - [ ] <span class="rate-n">February - In The Buddha’s Words - **Bhikkhu Bodhi**</span>
-- [ ] <span class="rate-n">March - Free - (The Art of War - **Sun Tzu**)</span>
+- [x] <span class="rate-n">March - Free - (The Art of War - **Sun Tzu**)</span>
 - [ ] <span class="rate-n">April - Discourses and Selected Writing - **Epictetus**</span>
 - [x] <span class="rate-n">May - The Republic - **Plato**</span>
 - [ ] <span class="rate-n">June - Free - (The Book of Five Rings - **Miyamoto Musashi**)</span>
