@@ -5,7 +5,7 @@ Reading Habit Tracker
 | Year | Winter | Summer | Fall | 
 | ----- | ------ | -------- | ---- |
 | 2025 | ▮         | ▮▮          | ▮▮▮▮▮ |
-| 2026 | ▮▮      | ▮▮▮▮▮▮▮▮▮ | 
+| 2026 | ▮▮      | ▮▮▮▮▮▮▮▮▮ | ▮
 
 ### New Reads List with Summaries
 - [x] <span class="rate-3">Atomic Habits - **James Clear**</span> As one of the most hyped up books of the 21st century it's hard to expect little from this title. I can't say the insight provided is at the level expected, though still worth reading. Quality of insight provided, along with helpful exercises and tips makes it still a worthwhile read. Takeaways: Habit Stacking and %1 rule
@@ -25,7 +25,7 @@ Reading Habit Tracker
 - [x] <span class="rate-2">Free Will - **Sam Harris**</span> A discussion on the critique and dismissal of free will. While I appreciate brevity from any author, I believe in this case the lack of setup and evidence make his position difficult to both understand and discuss. A lack of scientific and philosophical rigor is used to formulate a half baked logical axiom, which then frames the rest of the book. While I didn't enjoy or empathize with his perspective, I did quite enjoy the questions he poses near the end of the book. Quick read that makes you think.
 - [ ] <span class="rate-n">Hatchet - **Gary Paulsen**</span>
 - [ ] <span class="rate-n">Hitchhiker's Guide to the Galaxy - **Douglas Adams**</span>
-- [ ] <span class="rate-n">Inside the Machine - **Jon Stokes**</span>
+- [x] <span class="rate-5">Inside the Machine - **Jon Stokes** </span>The book builds up computer architecture knowledge from first principles, starting with transistors, on / off switches, and boolean algebra. After establishing a baseline understanding of an ALU, I/D stream, and clock, we unpack how the first real processor works, applying everything learned up until now and more, and after those introductory chapters it really kicks things into gear. Not only does it establish fundamentals and their applications, it goes on to explain why the real world models differ in real design scenarios. Nearly perfect book, I just wish I came out in 2026. Intuitively teaches: `Branch Prediction`, `ISA and Micro-ops`, `RISC vs CISC (drive-thru)`, `Pipelining`, `Dynamic Scheduling`, `Superscalar`, `SIMD (intra vs extra vec)`, `Cache misses (Compulsory, Conflict, Capacity)`, `Spatial and Temporal Locality (Frames and Blocks)` 
 - [ ] <span class="rate-n">In The Buddha’s Words - **Bhikkhu Bodhi**</span>
 - [ ] <span class="rate-n">Letters From a Stoic - **Seneca**</span>
 - [ ] <span class="rate-n">Meditations - **Marcus Aurelius**</span>
@@ -72,7 +72,7 @@ Reading Habit Tracker
 - [x] <span class="rate-n">3 - Design Patterns - **Gang of Four**</span>
 - [ ] <span class="rate-n">4 - [Beautiful C++](https://ptgmedia.pearsoncmg.com/images/9780137647842/samplepages/9780137647842_Sample.pdf) - **J Guy Davidson, Kate Gregory**</span>
 - [ ] <span class="rate-n">5 - Operating Systems in Three Easy Pieces (OSTEP) - **Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau**</span>
-- [ ] <span class="rate-n">6 - Inside the Machine - **Jon Stokes**</span>
+- [x] <span class="rate-n">6 - Inside the Machine - **Jon Stokes**</span>
 - [ ] <span class="rate-n">7 - TCP / IP Illustrated - **Kevin R. Fall, W Richard Stevens**</span>
 - [ ] <span class="rate-n">8 - C++ Concurrency in Action - **Anthony Williams**</span>
 - [ ] <span class="rate-n">9 - C++ Software Design - **Klaus Iglberger**</span>

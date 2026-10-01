@@ -72,4 +72,4 @@ Unlike other pipeline constructs in other APIs like openGL, Vulkan requires that
 
 # Resources
 - \[1] [Renderdoc Pipeline Image](https://renderdoc.org/docs/window/pipeline_state.html#pipeline-flowchart)
-- \[2]  [Vulkan Graphics Pipeline](https://docs.vulkan.org/tutorial/latest/03_Drawing_a_triangle/02_Graphics_pipeline_basics/00_Introduction.html)
+- \[2] [Vulkan Graphics Pipeline](https://docs.vulkan.org/tutorial/latest/03_Drawing_a_triangle/02_Graphics_pipeline_basics/00_Introduction.html)
